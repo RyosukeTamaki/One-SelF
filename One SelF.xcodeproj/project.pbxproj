@@ -15,6 +15,7 @@
 		EBDE398C2233C896001A1DF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBDE398A2233C896001A1DF5 /* LaunchScreen.storyboard */; };
 		EBDE39972233C897001A1DF5 /* One_SelFTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBDE39962233C897001A1DF5 /* One_SelFTests.swift */; };
 		EBDE39A22233C897001A1DF5 /* One_SelFUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBDE39A12233C897001A1DF5 /* One_SelFUITests.swift */; };
+		EBDE39B02233C964001A1DF5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EBDE39AF2233C964001A1DF5 /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		EBDE399D2233C897001A1DF5 /* One SelFUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "One SelFUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBDE39A12233C897001A1DF5 /* One_SelFUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = One_SelFUITests.swift; sourceTree = "<group>"; };
 		EBDE39A32233C897001A1DF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBDE39AF2233C964001A1DF5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				EBDE398A2233C896001A1DF5 /* LaunchScreen.storyboard */,
 				EBDE398D2233C896001A1DF5 /* Info.plist */,
 				EBDE39852233C893001A1DF5 /* One_SelF.xcdatamodeld */,
+				EBDE39AF2233C964001A1DF5 /* GoogleService-Info.plist */,
 			);
 			path = "One SelF";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EBDE398C2233C896001A1DF5 /* LaunchScreen.storyboard in Resources */,
+				EBDE39B02233C964001A1DF5 /* GoogleService-Info.plist in Resources */,
 				EBDE39892233C896001A1DF5 /* Assets.xcassets in Resources */,
 				EBDE39842233C893001A1DF5 /* Main.storyboard in Resources */,
 			);
